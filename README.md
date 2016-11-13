@@ -1,2 +1,2 @@
-# VSTeP_Fukuoka
-VSTeP@Fukuokaの勉強会用
+# VSTePpers_Fukuoka
+VSTeP@Fukuokaユーザーグループの勉強会用
